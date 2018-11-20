@@ -1,4 +1,4 @@
-# PhoebeSpirit
+# Polling System
 I am going to create a simple polling system. there will be a 
    Poll model with 
 'question'(the question, for that people will have to vote),
